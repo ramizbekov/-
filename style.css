@@ -1,0 +1,37 @@
+.main{
+    display: flex;
+justify-content: space-around;
+}
+.box{
+    width: 550px;
+    height: 350px;
+    background-color: red;
+}
+.nav{
+    width: 1283px;
+    border: 2px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    color: black;
+}
+.glavniy{
+    text-align: center;
+    margin: 100px;
+}
+.gg{
+    text-align: center;
+    margin: 150px;
+    color: white;
+    font-size: 50px;
+}
+.nap{
+    width: 1283px;
+    border: 2px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+    color: black;
+}
